@@ -1,0 +1,71 @@
+.container
+{
+    width: 100%;
+    font-size: 16px;
+    color: black;
+    }
+.roww{
+    display:flex;
+}
+.coll{
+    width: 100%;
+    padding: 15px;
+}
+.row{
+    display:flex;
+}
+.col{
+    width: 100%;
+    padding: 15px;
+}
+.w-67{
+    width: 67%;
+}
+.w-33{
+    width: 33%;
+   
+}
+.w-100{
+    width: 100%;}
+.w-55{width:55%;}
+   
+
+h2
+{
+    font-family: 'Neucha', cursive;
+    padding-top: 200px;
+
+}
+
+
+
+#full
+{
+    background-image: url(../images/journal.jpg);
+    min-height: 700px;
+width: 100%;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+font-size: 23px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.headblog{
+    padding-top: 10px;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+    text-shadow: .7px .7px ;
+    text-align: center;
+    justify-content: center;
+}
+.jasmine{
+    text-align: center;
+}
+
+    
